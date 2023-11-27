@@ -1,0 +1,39 @@
+* {
+  font-family: 'Helvetica', sans-serif;
+}
+
+.header {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url(/resources/images/pattern.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 60px 5px;
+  padding: 10px 10px;
+}
+
+h2.section {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  display: block;
+}
+
+h2#brushes {
+  background-color: mediumspringgreen;
+}
+
+h2#frames {
+  background-color: lightcoral;
+}
+
+h2#paint {
+  background-color: skyblue;
+}
+
+p#price {
+  font-weight: bold;
+  color: blue;
+}
